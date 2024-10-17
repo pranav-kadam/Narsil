@@ -1,4 +1,5 @@
 export const pricing = [
+  
     {
         title: "Basic",
         price: "$99/month",
