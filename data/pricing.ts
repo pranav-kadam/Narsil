@@ -24,7 +24,7 @@ export const pricing = [
     {
         title: "Custom",
         price: "Get a quote",
-        features: ["Get a tailormade solution for your org", "Pay only for the features you use", "Maximum control over automation to balance human and AI input"],
+        features: ["Get a tailormade solution for your org", "Pay only for the features you use", "Get 24x7 customer support"],
         description: "This is a customised plan plan to for complex organisations",
         fancy: false,
     },
