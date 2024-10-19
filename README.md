@@ -1,6 +1,6 @@
-# Open Source SAAS Landing Page Template
+# Narsil SaaS Landing Page
 
-This is an open source Software as a Service (SAAS) landing page template built with [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), and [React](https://reactjs.org/). It's designed to be easy to use and customize to help you create a beautiful, professional landing page for your app, product, or service.
+This is the website for Narsil's AI ERP product Optima.
 
 ## Preview
 
