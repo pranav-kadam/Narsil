@@ -24,8 +24,8 @@ export const pricing = [
     {
         title: "Custom",
         price: "Get a quote",
-        features: ["Up to 80 users", "All features of Basic plan", "AI Agents that perform day-to-day tasks", "Maximised Automation"],
-        description: "This is a customised plan plan to ",
+        features: ["Get a tailormade solution for your org", "Pay only for the features you use", "Maximum control over automation to balance human and AI input"],
+        description: "This is a customised plan plan to for complex organisations",
         fancy: false,
     },
 ];
